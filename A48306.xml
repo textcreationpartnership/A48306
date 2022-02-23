@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case of conscience, concerning the sacrament of the Lords Supper when either the bread or wine is wanting, or when there is a desire, yet with an antipathy to them, or debilitie to receive them / proposed to John Ley ...</title>
+            <author>Ley, John, 1583-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48306</idno>
+            <idno type="STC">Wing L1871</idno>
+            <idno type="STC">ESTC R20557</idno>
+            <idno type="EEBO-CITATION">12610180</idno>
+            <idno type="OCLC">ocm 12610180</idno>
+            <idno type="VID">64337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 963:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case of conscience, concerning the sacrament of the Lords Supper when either the bread or wine is wanting, or when there is a desire, yet with an antipathy to them, or debilitie to receive them / proposed to John Ley ...</title>
+                  <author>Ley, John, 1583-1662.</author>
+               </titleStmt>
+               <extent>[3], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.H. for George Lathum ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Bread and wine.</term>
+               <term>Lord's Supper --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64337:1"/>
+            <pb facs="tcp:64337:1" rendition="simple:additions"/>
+            <p>A CASE OF CONSCIENCE, CONCERNING THE SACRAMENT OF THE Lords Supper: WHEN EITHER THE <hi>BREAD</hi> OR <hi>WINE</hi> IS wanting, or when there is a deſire, yet with an Antipathy to them, or debilitie to receive them.</p>
+            <p>Propoſed to JOHN LEY, Paſtor of <hi>Great Budworth,</hi> and by him reſolved.</p>
+            <p>LONDON: Printed by <hi>R. H.</hi> for GEORGE LATHUM, at the Biſhops head in S<hi rend="sup">t</hi>. <hi>Pauls Church<g ref="char:EOLhyphen"/>yard.</hi> 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64337:2"/>
+            <pb facs="tcp:64337:2"/>
+            <head>TO THE RIGHT WORSHIPFUL, AND WORTHILY HONOURED Gentleman, PHILIP MAINWARING, ESQUIRE.</head>
+            <opener>
+               <salute>RIGHT WORTHY SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His ſhort diſcourſe enſu<g ref="char:EOLhyphen"/>ing (though long enough I hope to reſolve the Queſtion propoſed) is Yours by right of Dedi<g ref="char:EOLhyphen"/>cation (now it is publick) ſince it was Yours before by cauſality of production (as a private manuſcript) for your letter to your Reverend <g ref="char:V">Ʋ</g>ncle (my honoured
+<pb facs="tcp:64337:3"/>Friend) and his to me, have been unto it, as a Grandfather and father, from whoſe motion and ſollicitation it is lineally deſcen<g ref="char:EOLhyphen"/>ded. Accept it then (good <hi>Sir</hi>) as your owne: and me with it, whom Your imma<g ref="char:EOLhyphen"/>nent merit in your ſelf, and tranſient benig<g ref="char:EOLhyphen"/>nity to me, have long and deeply obliged to remaine</p>
+            <closer>
+               <signed>
+                  <hi>Yours, to love, and ſerve</hi> You, <hi>with affection and fidelity. JOHN LEY.</hi>
+               </signed>
+               <dateline>From my lodging at the Fountaine in S. <hi>Pauls</hi> Church-yard. <date>
+                     <hi>Febr.</hi> 24. 1640.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:64337:3"/>
+            <head>A Caſe of Conſcience Reſolved, touching the <hi>Sacramentall Elements,</hi> when both cannot be had, or not Received: Or a diſcuſſion of the doubt, in ſeverall ca<g ref="char:EOLhyphen"/>ſes, what is to be done when either of the Elements of the Sacrament of the <hi>Lords Supper,</hi> cannot be had, or (through in<g ref="char:EOLhyphen"/>firmitie or Antipathy) cannot be taken: occaſioned by the particular caſe enſuing.</head>
+            <head type="sub">D<hi rend="sup">r</hi>. EDMUND MAINWARING (the Chancellor of <hi>Cheſter</hi>) his Letter con<g ref="char:EOLhyphen"/>cerning the Caſe.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>M<hi rend="sup">r</hi>. LEY,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> 
+                     <hi>Intreat your opinion and reſolution (in caſe of neceſſitie) what is to be done, where a Perſon is ſo weake, and infirme, as not able to ſwallow a crum of bread, and yet with much earneſt<g ref="char:EOLhyphen"/>neſſe deſires to receive the Communion?</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>12<hi rend="sup">o</hi> Jan. 1636.</date>
+                     </dateline>
+                     <signed>Your true friend to ſerve you, EDM. MAINWARING.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="2" facs="tcp:64337:4"/>
+            <p>SIR, The caſe of conſcience (as in your Ne<g ref="char:EOLhyphen"/>phews Letter it is put to you, and in yours to me) concerning the young woman, I con<g ref="char:EOLhyphen"/>ceive to be this, <q>A young woman hath forborne to eate bread for theſe two or three yeeres, and now being of age, ſhee hath a great deſire to receive the Sacra<g ref="char:EOLhyphen"/>ment, but cannot ſwallow the leaſt crum of bread (as tryall hath been made of her for a whole weeke toge<g ref="char:EOLhyphen"/>ther) whereupon ſhe deſired to re<g ref="char:EOLhyphen"/>ceive in ſomthing elſe, her Miniſt. was adviſed to deliver it to her in a thing called <hi>Manus Chriſti,</hi> but did not.</q>
+            </p>
+            <p>Hereupon, you require my reſolution, what is to be done? concerning which I ſay, Firſt it is a very rare thing for one (borne and bread where bread is daily food) not by infirmitie, but by Antipathy, to be ſo indiſpoſed to make uſe of that fundamentall nouriſhment, as not to be able to take ſo much as a crumme, though it were to receive the Sacrament of the Supper of the Lord: I have read only of
+<note n="a" place="margin">
+                  <hi>Ego profiteor vidiſſe puerum annorum cireiter</hi> 10, <hi>cui nunquam quicquam guſtatum panis, nec carnium. Chamier. de Euchar. lib.</hi> 8. <hi>cap.</hi> 3. <hi>tom.</hi> 4. <hi>pag.</hi> 422. <hi>col.</hi> 2.56.</note> one before now, whoſe diſlike of bread was like unto hers.</p>
+            <p>Secondly, taking the caſe as it is, deliberation is requiſite concerning three opi<g ref="char:EOLhyphen"/>nions eſpecially.</p>
+            <pb n="3" facs="tcp:64337:4"/>
+            <p>The firſt of thoſe who hold, that if the Sacra<g ref="char:EOLhyphen"/>ment cannot be adminiſtred, and received in both kindes (according to the inſtitution of our Saviour) it is wholie to be
+<note n="b" place="margin">
+                  <hi>Biſh.</hi> Lake <hi>in his Serm. on Mat.</hi> 26. <hi>v.</hi> 26, 27. <hi>par.</hi> 3.165. <hi>So hold alſo ſome of the Doctors of the reformed Churches.</hi>
+               </note> for<g ref="char:EOLhyphen"/>born: the learned Biſhop of <hi>Bath</hi> and <hi>Wells</hi> expreſſeth his opinion to that purpoſe thus, <hi>Seeing the Sacraments have</hi> neceſſitatem, non medij, ſed praecepti, <hi>as it is a foule fault to contemne the Elements (when they may be had:) So when they may not be had, it were better to want the Sacrament, then to uſe Elements of our owne choice: God can ſupply to our uſe (ſaith he)</hi> rem Sa<g ref="char:EOLhyphen"/>cramenti, ſine Sacramento, <hi>in caſe of neceſſitie, who happily will not be ſo gratious, if wee be ſo preſumptu<g ref="char:EOLhyphen"/>ous as to preſcribe.</hi>
+            </p>
+            <p>The ſecond opinion is of thoſe, who think that in defect of the Elements, preſcribed and uſed by our Saviour at his laſt Supper, others which are analo<g ref="char:EOLhyphen"/>gical to them may be taken, as for bread (which they would have to be rather
+<note n="c" place="margin">
+                  <hi>Panis triticeus, conveniens eſt Sa<g ref="char:EOLhyphen"/>cramenti Euchariſtiae materia. A<g ref="char:EOLhyphen"/>quin.</hi> 3. <hi>part</hi> 974. <hi>art.</hi> 3. <hi>concluſ.</hi>
+               </note> of Wheate then
+<note n="d" place="margin">Non panis ordeaceus. Ibid.</note> Barley, or of any other graine, but by no meane of
+<note n="e" place="margin">
+                  <hi>Cur non meminit in Scotia, plebem avena victitare, ex qua non liceat conſecrandum panem fieri. Chamier. tom.</hi> 4. <hi>lib.</hi> 9. <hi>cap.</hi> 12. <hi>pag.</hi> 524. <hi>col.</hi> 2.</note> Oates, againſt which there is an eſpecial prohibition, <hi>that with bread of Oates, there be no Conſecration)</hi> they allow not only that which is made of corne, but of other materialls; of which (in divers Authors) wee meet with many ſorts of
+<note n="f" place="margin">
+                  <hi>Panis ex Amygdalis &amp; Sacc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>are Cel. Rhodiginus Anti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> lect. l.</hi> 9. <hi>cap.</hi> 15. <hi>col.</hi> 408.</note> bread made of Almonds and ſugar,
+<note n="g" place="margin">Panis ex melle, <g ref="char:V">Ʋ</g>vis paſſis, &amp; ali<g ref="char:EOLhyphen"/>js aromatices confect. Ibid.</note> bread made of honey and rayſons, and of aromaticall
+<pb n="4" facs="tcp:64337:5"/>ingredients,
+<note n="h" place="margin">
+                  <hi>Bread of millet and Turnep<g ref="char:EOLhyphen"/>ſeede pounded, is the bread of the Alarbians, and Cammells and Oſtrages their meat. Lud. Regius in Ariſt. Polit. l.</hi> 1. <hi>chap.</hi> 5. <hi>pag.</hi> 40.</note> bread of Turneps, bread of
+<note n="i" place="margin">
+                  <hi>Purch. Pil. l.</hi> 5. <hi>c.</hi> 13. <hi>pag.</hi> 436.</note> Battara roots, uſed in the Ilands of <hi>Moratay,</hi>
+               <note n="k" place="margin">
+                  <hi>Tho. Walſingh. hiſt. Hen.</hi> 5. <hi>pag.</hi> 438.</note> bread of Wall-nuts; but the moſt of theſe for neceſſitie, where bread of corne is either not at all, or not in a com<g ref="char:EOLhyphen"/>petent quantitie to be had, and if this opinion admit of other mate<g ref="char:EOLhyphen"/>rialls, as farre as neceſſitie ſuggeſt<g ref="char:EOLhyphen"/>eth ſupplie, it may proceed to the approbation of Arcadian
+<note n="l" place="margin">
+                  <hi>Arcades glandibus veſci docuit eorum Rex Pelaſgus. caelius Rho<g ref="char:EOLhyphen"/>dig. Antiq. Lart. l.</hi> 16. <hi>c.</hi> 13. <hi>col.</hi> 716. <hi>&amp; lib.</hi> 18. <hi>col.</hi> 836.</note> bread, made of Acorns, which would lit<g ref="char:EOLhyphen"/>tle beſeeme the Lords Table: for as Pearles muſt not be caſt before Swine (as our Saviour ſaith) ſo of that which is fit<g ref="char:EOLhyphen"/>teſt to be caſt before them, as Acorns, none ſhould (as I conceive) offer to make ſuch pearles, as is the bread of that holy banquet.</p>
+            <p>The like we ſay, of the poore and miſerable bread (at the
+<note n="m" place="margin">
+                  <hi>Serres French In<g ref="char:EOLhyphen"/>vent in</hi> Charles <hi>the</hi> 9. <hi>pag.</hi> 799.</note> ſiege of <hi>Sancerre</hi> in France) made of flax<g ref="char:EOLhyphen"/>ſeed, nut-ſhells and ſtraw, ſo much more unmeet for ſuch a ſervice as it is more unworthy then the o<g ref="char:EOLhyphen"/>ther. And as for bread, ſo if there be no wine to be had, they hold it lawfull to uſe other liquor, as Me<g ref="char:EOLhyphen"/>thegline (ſo
+<note n="n" place="margin">
+                  <hi>Philippus Melanct. (in libro de uſu integri Sacramenti) Soripſit Ruthenos (ob vini inopiam) recte facturos, ſi pro vino uterentur, aqua mellita, ſeu medo<g ref="char:EOLhyphen"/>ne. Bellar. de Euchariſt. lib.</hi> 4. <hi>cap.</hi> 24. <hi>tom.</hi> 3. <hi>pag.</hi> 295.</note> 
+               <hi>Melancthon</hi> re<g ref="char:EOLhyphen"/>ſolved for the Ruſſian Church) or the Juice of Rayſons (as for India upon the like defect) others have concluded, and as there the Communion of the Neſto<g ref="char:EOLhyphen"/>rian Chriſtians is admini<g ref="char:EOLhyphen"/>ſtred,
+<note n="o" place="margin">
+                  <hi>M<hi rend="sup">r</hi>. Brerew. Inquire of Lang. &amp; Re<g ref="char:EOLhyphen"/>lig. pag.</hi> 147.</note> or any other liquor,
+<pb n="5" facs="tcp:64337:5"/>of familiar uſe, though it be water: ſo
+<note n="p" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t pro vine aliud in jis regionibus, uſitate potionis, genus uſurparent, vel aqua, vel alia ſibi familiari potione u<g ref="char:EOLhyphen"/>tantur? Beza epiſt.</hi> 25. <hi>pag.</hi> 167, 168.</note> 
+               <hi>Beza</hi> (putting the queſtion touching America) maketh Anſwere; and hee doth it, in the name of
+<note n="q" place="margin">Hoc domini Calvini reſponſum, ut optima ratione nixum &amp; Chriſti conſi<g ref="char:EOLhyphen"/>lio conſentaneum, noſter caetus adeo com<g ref="char:EOLhyphen"/>probavit, ut eos ſuperſtitioſe facere cen<g ref="char:EOLhyphen"/>ſuerimus, qui a vini Symbolo, uſque adeo penderent ut alteram coenae partem omittere mallent, quam Analogon aliud Symbolum (ita cogente neceſſitate) u<g ref="char:EOLhyphen"/>ſurpare. Ibid.</note> 
+               <hi>Cal<g ref="char:EOLhyphen"/>vin,</hi> and others of the Preſby<g ref="char:EOLhyphen"/>tery of the Church of Gene<g ref="char:EOLhyphen"/>va, as conſonant both to very good reaſon, and to the counſell of Chriſt, which he delivereth with ſuch confi<g ref="char:EOLhyphen"/>dence of the ſufficiency of ſuch a ſupply, that hee chargeth thoſe with ſu<g ref="char:EOLhyphen"/>perſtition, who ſo depend upon the Symbole of wine, that if they may not have it, they will deprive themſelves of the other part of the Sacrament: and he aſſureth the receiver, that there is no doubt of it, but by ſuch an Adminiſtration of the Sacrament,
+<note n="r" place="margin">Neque dubitet tam ſibi ſub hoc potu, quam ſub vino, ſanguine Chriſti communicare. Ibid.</note> he receiveth the blood of Chriſt, as well as if the Sacrament were with wine delivered unto him. But this libertie without great caution might prove very ſcan<g ref="char:EOLhyphen"/>dalous: for</p>
+            <p>Firſt, by receding ſo far from the Inſtitution, ſome might take occaſion of ſuch a preſumption, as is condemned in
+<note n="ſ" place="margin">
+                  <hi>Audivimus quoſdam ſchiſmatica preſumptione detentos, contra divi<g ref="char:EOLhyphen"/>nos ordines, &amp; Apoſtolicas inſtituti<g ref="char:EOLhyphen"/>ones, hoc pro vino &amp;c. Botro (i.) de unarum granis, populo communica<g ref="char:EOLhyphen"/>re. Concil. Brac.</hi> 3. <hi>can.</hi> 1. <hi>fol.</hi> 310.</note> the third Counſell of Bracara, <hi>anno</hi> 669. which was to <hi>bring milke for wine to the Communion, or cluſters of grapes,</hi> which is wine vertually, and materially ſomewhat elſe, which ſhould not be
+<pb n="6" facs="tcp:64337:6"/>be added to the Inſtitution, as
+<note n="t" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>vae integrae non debent huic Sacramento miſceri, quia jam aliud eſſet ibi, preter vi<g ref="char:EOLhyphen"/>num. Aquin.</hi> 3. <hi>part. que.</hi> 74. <hi>art.</hi> 5. <hi>ad tertium.</hi>
+               </note> 
+               <hi>Aqui<g ref="char:EOLhyphen"/>nas</hi> well enough hath reſolved: and there were ſome ſo fond, or rather mad, as to bring bread and cheeſe into the myſteries of Religion: who there<g ref="char:EOLhyphen"/>fore are worthily branded with a name and note of hereſie, by
+<note n="u" place="margin">
+                  <hi>Artotyritas appellunt, eo quod in myſterijs ſuis, appo<g ref="char:EOLhyphen"/>nunt panem &amp; caſeum, &amp; ſic myſteria ſua faciunt. Epipha. contra Heres. lib.</hi> 2. <hi>tom.</hi> 1. <hi>p.</hi> 99. <hi>col.</hi> 2.</note> 
+               <hi>Epiphanius,</hi> and
+<note n="w" place="margin">
+                  <hi>Artotyritae (quibus oblatio, eorum hoc nomen dedit) offe<g ref="char:EOLhyphen"/>rnnt panem, &amp; caſeum, dicen<g ref="char:EOLhyphen"/>tes, a primis hominibus, obla<g ref="char:EOLhyphen"/>tiones de fructibus terrae, &amp; ovium fuiſſe celebratas. Aug. de Heres. Her.</hi> 28. <hi>tom.</hi> 6. <hi>pag.</hi> 21.</note> 
+               <hi>Auguſtine</hi> many hundred yeeres a<g ref="char:EOLhyphen"/>gone.</p>
+            <p>Secondly, for the limitation, or ra<g ref="char:EOLhyphen"/>ther limited allowance of <hi>Beza</hi> in caſe of neceſſitie, as (according to the de<g ref="char:EOLhyphen"/>gree of it) it maketh as much varia<g ref="char:EOLhyphen"/>tion in bread, as is betweene Al<g ref="char:EOLhyphen"/>monds and Acorns; ſo for drinke, ſome neceſſities have come downe as low as from wine to urine. <hi>Rabſhekah</hi> threat<g ref="char:EOLhyphen"/>ned the Jewes. <hi>Eſay</hi> 36.12. That hee would bring them to ſuch an extremity, but he did but threaten it, but it fell out ſo indeed, among the Cretenſes, upon the ſiege of <hi>Cecilius Metellus,</hi> for they were driven to drinke both their owne, and the urine of their beaſts: and ſo (as
+<note n="x" place="margin">
+                  <hi>Sua, Jumentorumque ſuo<g ref="char:EOLhyphen"/>rum, urina, ſitim torſerunt verius quam ſuſtentarunt. Valer. Max. lib.</hi> 7. <hi>cap.</hi> 6.</note> 
+               <hi>Valerius Maximus</hi> ſaid) did <hi>rather torture then ſatisfie their ap<g ref="char:EOLhyphen"/>petites,</hi> if the caſe of neceſſitie be ſuch, as degrades a mans appetite to the Ali<g ref="char:EOLhyphen"/>ment of beaſts, or (as in this caſe) below it, doubt<g ref="char:EOLhyphen"/>leſſe it is much better to forbeare the Sacrament, then to adminiſter it in ſuch Elements, as ſuite nei<g ref="char:EOLhyphen"/>ther with the ſweetneſſe, nor with the dignitie of ſuch an excellent myſterie.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:64337:6"/>For <hi>Beza</hi> his allowance of water, in caſe of ne<g ref="char:EOLhyphen"/>ceſſitie, I like it the worſe, not onely for that (as it is a kinde of drinke, it is fitter for beaſts then for men) but for that, ſuch as antiently did adminiſter in water, in ſtead of wine, were branded as hereticks, (by the orthodox Doctors) under the name of
+<note n="y" place="margin">
+                  <hi>Aquarij dicti ſunt, quod a<g ref="char:EOLhyphen"/>quam offerunt, in poculo Sacra<g ref="char:EOLhyphen"/>menti. Aug. de Hereſ. hereſ.</hi> 64. <hi>tom.</hi> 6. <hi>pag.</hi> 32.</note> Aquarij: though they did it not of ſchiſmaticall preſumption (as thoſe whom the Councell of <hi>Braca<g ref="char:EOLhyphen"/>ra</hi> condemned for their innovati<g ref="char:EOLhyphen"/>on) but in their zeal to
+<note n="z" place="margin">
+                  <hi>Sobrietatem adeo diligebant, ut (ejus conſervandae cauſa) eti<g ref="char:EOLhyphen"/>ampro calicis conſecratione, vi<g ref="char:EOLhyphen"/>num evitandum putent. Alph. a Caſtr. Adverſ. Hereſ. lib.</hi> 6. <hi>fol.</hi> 181. <hi>pag.</hi> 6.</note> ſobrietie. Againſt theſe, S<hi rend="sup">t</hi>.
+<note n="a" place="margin">
+                  <hi>Cyprian. Epiſt.</hi> 63. <hi>pag.</hi> 85. 86.</note> 
+               <hi>Cyprian</hi> pleadeth very earneſtly, in his epiſtle to <hi>Ce<g ref="char:EOLhyphen"/>cilius. I denie</hi> not, but that there is difference, betwixt uſing water <hi>(without neceſſitie,</hi> as they did) <hi>and of neceſſity,</hi> when wine could not be had, which is the caſe wherein <hi>Be<g ref="char:EOLhyphen"/>za,</hi> and his brethren did allow it: whoſe opinion is ſince taken up by
+<note n="b" place="margin">
+                  <hi>Polan Syntag. lib.</hi> 6. <hi>cap.</hi> 56. <hi>col.</hi> 12.13.12.14.</note> 
+               <hi>Polanus,</hi> and ſet downe (almoſt in the ſame words) though he name him not. Yet their great affection to ſobrietie, was ſomewhat to excuſe them, and per<g ref="char:EOLhyphen"/>haps very neere as much, as the meer want of wine might excuſe ſome others, if they ſhould follow <hi>Calvinus, Beza</hi> and <hi>Polanus</hi> their indifferencie, for uſing water in ſtead thereof: for though wine could not be had, other liquor (of neerer operation to it) in moſt places may be had. <hi>And</hi> albeit ordinarilie, thoſe Countreys which have no vines, might be provided of wine enough for the Sacrament as
+<note n="c" place="margin">
+                  <hi>Poteſt verum vinum ad ter<g ref="char:EOLhyphen"/>ras illas defer<g ref="char:EOLhyphen"/>ri, in quibus vites non creſ<g ref="char:EOLhyphen"/>cunt, quantu<g ref="char:cmbAbbrStroke">̄</g> ſufficit ad hoc ſacramentum Aq.</hi> 3. <hi>p. Q.</hi> 74. <hi>art.</hi> 5. <hi>ad prim.</hi>
+               </note> 
+               <hi>Aquinas</hi> confeſſeth (which we take not only for
+<pb n="8" facs="tcp:64337:7"/>the Prieſts, as he hath it, and ſo no neceſſitie to di<g ref="char:EOLhyphen"/>ſpence with the
+<note n="d" place="margin">
+                  <hi>Bellar. de Euchar. lib.</hi> 4. <hi>cap.</hi> 24. <hi>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> 3 <hi>pag.</hi> 295.</note> Prieſts of <hi>Norway,</hi> to conſecrate in one kinde only, as Pope <hi>Innocentius</hi> the VIII. is ſaid to have done, but for the Laitie alſo) yet if there ſhould be ſuch want of wine, as in the yeere
+<note n="e" place="margin">
+                  <hi>Magdeburg. Cent.</hi> 13. <hi>cap.</hi> 13. <hi>col.</hi> 2.</note> 1237. there was in <hi>Alſatia,</hi> when a quart of wine was 16. times dearer then it was, but the yeere be<g ref="char:EOLhyphen"/>fore, eſpecially ſuch a want, as was in the yeer
+<note n="f" place="margin">
+                  <hi>Centur.</hi> 7. <hi>cap.</hi> 13. <hi>col.</hi> 559, 560.</note> 604. which was generall almoſt throughout the world, when with the coldneſſe of the winter that went be<g ref="char:EOLhyphen"/>fore, their Vines were killed, <hi>I conceive (with humble ſubmiſſion to the judgement of the Church)</hi> that rather then we of England ſhould generally want the Sacra<g ref="char:EOLhyphen"/>ment, untill new Vines had brought forth new in<g ref="char:EOLhyphen"/>creaſe, wee might well receive the Sacrament, in ſome of the better ſort of our uſuall drinks, but not in water onely: though that were mingled in the ſacred Cup, at the conſecra<g ref="char:EOLhyphen"/>tion (as
+<note n="g" place="margin">
+                  <hi>Neque aliud fiat a nobis, quam quod pro nobis dominus prior fe<g ref="char:EOLhyphen"/>ceret, ut calix (qui in illius com<g ref="char:EOLhyphen"/>memorationem offertur) mixtus vino offeratur. Cypr. Epiſt.</hi> 63. <hi>pag.</hi> 85. <hi>col.</hi> 1. <hi>&amp; aqua p.</hi> 86. <hi>col.</hi> 1.</note> 
+               <hi>Cyprian</hi> confidently affir<g ref="char:EOLhyphen"/>meth) and
+<note n="h" place="margin">
+                  <hi>Probabiliter creditur, quod do<g ref="char:EOLhyphen"/>minus Sacramentum hoc inſtitue<g ref="char:EOLhyphen"/>rit, in vino aqua permiſto. Aquin. part.</hi> 3. <hi>Queſt.</hi> 74. <hi>art. &amp; corp. Artic.</hi> ſo alſo <hi>Chemnit</hi> ſaith, <hi>ve<g ref="char:EOLhyphen"/>riſimile eſt Chriſtum vinum, non merum, ſed temperatum bibiſſe. Chemnit. exam. Trid. part</hi> 2. <hi>pag.</hi> 170. <hi>col.</hi> 1.</note> others more warilie deliver, upon probable conjecture, and that for theſe two reaſons.</p>
+            <p>Firſt, becauſe (as
+<note n="i" place="margin">
+                  <hi>Calix tuus inebriat. Ps.</hi> 22. <hi>aqua non inebriat. Cyp. ep.</hi> 63. <hi>p.</hi> 86. <hi>c.</hi> 1.</note> S<hi rend="sup">t</hi>. <hi>Cyprian</hi> ſheweth) the drinke of the Sacra<g ref="char:EOLhyphen"/>ment muſt be a drinke of ſome vi<g ref="char:EOLhyphen"/>gour, as able (as water is not) to inebriate, though not in ſo ſmall a quantitie, as is commonly taken by every ſingle receiver.</p>
+            <p>Secondly, our Saviour conſe<g ref="char:EOLhyphen"/>crated the Sacrament not ſimply in wine (as it was wine) but in wine and water (as the uſuall drink
+<pb n="9" facs="tcp:64337:7"/>of that Country (as Beere or Ale is with us) as
+<note n="k" place="margin">
+                  <hi>Dominus Sacramentum hoc inſtituebat, in vino aqua per<g ref="char:EOLhyphen"/>miſta, ſecundum morem iſtius terrae. Aquin. part.</hi> 3. <hi>Q.</hi> 74. <hi>Art.</hi> 6. <hi>Corp. Artic.</hi>
+               </note> 
+               <hi>Aquinas</hi> conceiveth (and no man contradicteth him in it, nor doe I know any reaſon why any one ſhould doe ſo.) <hi>And</hi> upon theſe reaſons, it might (if the Church gave way unto it) be warantable enough rather to make a ſupply, where there is an unexpected fayling of wine, at a great Communion, with ſome other liquor analogicall to it, then to ſend many away with halfe the Sacrament.</p>
+            <p>If it be ſaid, that in caſe of want of wine,
+<label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> to take common drinke, would bring the Sacrament down to a common and contemptible conceit, as by dealing the Sacramentall bread out of a common Baſket, ſome people tooke a loathing of the com<g ref="char:EOLhyphen"/>munion: as was objected againſt the Vicar of Ratsdale in the
+<note n="l" place="margin">
+                  <hi>Conference at Hampton Court. p.</hi> 95. <hi>Anſw.</hi>
+               </note> conference at Hampton Court.</p>
+            <p>
+               <hi>It may</hi> be anſwered firſt, that no ſuch <hi>ill effect,</hi> hath been obſerved, in the places where wine is (by cuſtome) the common drinke of the Countrey: as in Judea, France, &amp;c.</p>
+            <p>Secondly, That the Sacrament of Baptiſme,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> is received in a more ordinary and common element by farre: for what is more common then water? whereof every beaſt may drinke, and wherein he may ſet his foot? and yet is Baptiſme generally re<g ref="char:EOLhyphen"/>ceived, as an holy and honorable ordinance.</p>
+            <p>Thirdly,
+<label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> for that ſcandall at diſtribution of the bread of the Sacrament out of a baſket. I ſay,</p>
+            <p n="1">It conſiſted chiefly in this, that the Miniſter
+<note n="m" place="margin">Ibid.</note> ſuffered (as in the Conference is ſaid) each man,
+<pb n="10" facs="tcp:64337:8"/>to put his hand into the baſket, and to take his own part of the bread.</p>
+            <p n="2">In that (being but a private Miniſter) he made an Innovation for the worſe, and withall a kinde of ſchiſme from other Churches. But if there had been Authoritie for carrying the bread in ſuch a baſket, it had been no prejudice to the dignitie of the Sacrament, nor to his diſcretion that ſo uſed it, nor had ſuch ſcandall enſued upon it: Saint <hi>Hierome</hi> highly commendeth
+<note n="m" place="margin">
+                  <hi>Sanctus Exuperius Tholoſae E<g ref="char:EOLhyphen"/>piſcopus, viduae ſaraptenſis imita<g ref="char:EOLhyphen"/>tor, Eſuriens paſcit alios, &amp; ore pallente Jejunijs, fame torque<g ref="char:EOLhyphen"/>tur aliorum, omnemque Subſtan<g ref="char:EOLhyphen"/>tiam Chriſti pauperibus erogavit, nihil illo ditius, qui corpus domi<g ref="char:EOLhyphen"/>ni, Caniſtro vimineo, ſanguinem portat in vitro. Hieron. ad Ruſtic. Monach. de vivendi fama. tom.</hi> 1 <hi>pag.</hi> 49. <hi>prope finem. Epiſt. &amp; pag.</hi>
+               </note> 
+               <hi>Exuperius</hi> (Biſhop of Tholouſe) for his great charitie, and mortification, and for his great eſtate alſo, and yet (ſaith he) <hi>hee carried the Lords body in a wicker basket, and his blood in a glaſſe.</hi> Meaning the ma<g ref="char:EOLhyphen"/>terialls of the ſacrament, bread and wine. The reaſon why this good man carried the Sacrament, in ſuch meane veſſells (whereof the Reader may have ſome ſcruple by the way) was not out of any contempt, or diſreſpect of it; but that thereby he might the better drive the ſinne of covetouſneſſe out of the Church (as <hi>Hierom</hi> imply<g ref="char:EOLhyphen"/>eth) when he
+<note n="o" place="margin">Sanguinem portat in vitro, qui avaritiam ejecit è templo. Hieron. Ibid.</note> ſaith (in the ſame place, and the next words after) <hi>that he excommunicated avarice out of the Church,</hi> but this but by the way.</p>
+            <p>Yet I confeſſe (though I thus plead) when I was once unhappily put to a Non plus for Wine in the adminiſtration of the Sacrament (by the Church<g ref="char:EOLhyphen"/>wardens default) I durſt not piece up the defect,
+<pb n="11" facs="tcp:64337:8"/>with any ordinary drinke, becauſe I wanted the di<g ref="char:EOLhyphen"/>rection of Authoritie to induce me unto it: ſo that I incline to conforme to a third opinion, which is a kinde of Medium betwixt thoſe two, <hi>Viz.</hi> neither to ſubſtitute other elements (as <hi>Calvine, Beza, Pola<g ref="char:EOLhyphen"/>nus</hi> and others would have it:) nor wholly to for<g ref="char:EOLhyphen"/>beare or debarre others from the receipt of the Sa<g ref="char:EOLhyphen"/>crament, as
+<note n="p" place="margin">
+                  <hi>Indeed ſome Doctors of the re<g ref="char:EOLhyphen"/>formed Churches, have concei<g ref="char:EOLhyphen"/>ved that ſuch as cannot receive ſo much as a drop of wine (by their Antipathy to wine) ſhould altogether abſtaine from the orall receiving of the Sacrament, be<g ref="char:EOLhyphen"/>cauſe they cannot receive it in both kinds. D<hi rend="sup">r</hi>. Featly, in his conference with M<hi rend="sup">r</hi>. Everard. pag.</hi> 268. <hi>marg. out of Jacob Rhemig.</hi>
+               </note> ſome other Proteſtants have conceived moſt convenient, when bread and wine, or either of them, cannot be had: but if there be either an Antipathy againſt either kinde, or want of either, to be con<g ref="char:EOLhyphen"/>tent with that which may be had and taken: and this is the Judge<g ref="char:EOLhyphen"/>ment, not only of Papiſts, as of
+<note n="q" place="margin">
+                  <hi>Multi abhorrent a vino, &amp; vel natura abſtemij ſunt, vel edu<g ref="char:EOLhyphen"/>catione in calidioribus regioni<g ref="char:EOLhyphen"/>bus: aſſueſcunt enim pueri &amp; puellae (etiam nobiles) aquae po<g ref="char:EOLhyphen"/>tui, unde multipoſtea (etiam in matura aetate) non poſſunt abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> nauſeâ vinum guſtare. Quid ergo iſti facturi ſunt? abſtine<g ref="char:EOLhyphen"/>bunt a communione perpetuo! at id non licet, per divinas leges. Bellar. tom.</hi> 3. <hi>l.</hi> 4. <hi>de Euchar. chap.</hi> 24. <hi>pag.</hi> 295.</note> 
+               <hi>Bellarmine</hi> (beſides many more) concluding ſo, in the caſe of ſuch as are abſtemious, &amp; cannot abide the taſte of wine: but of many Prote<g ref="char:EOLhyphen"/>ſtants alſo, of whom he nameth
+<note n="r" place="margin">
+                  <hi>Brent. in confeſſione Witten<g ref="char:EOLhyphen"/>burge.</hi> 2. <hi>part.</hi> 2. <hi>pericopes apud Bellar. Ibid.</hi>
+               </note> 
+               <hi>Brentius</hi> only, and blameth
+<note n="s" place="margin">Quis dedit Philippo, authori<g ref="char:EOLhyphen"/>tatem mutandi Sacramentorum materiam? Bellar. ubi ſupra.</note> 
+               <hi>Melan<g ref="char:EOLhyphen"/>cton</hi> for too much boldneſſe, in re<g ref="char:EOLhyphen"/>ſolving on the contrary part, for the Ruſſians, that (wanting wine) they might have the Communion in Methegline, aſking <hi>who gave him Authoritie to change the matter of the Sacrament.</hi> But it would be a har<g ref="char:EOLhyphen"/>der queſtion, able to poſe the lear<g ref="char:EOLhyphen"/>nedſt
+<pb n="12" facs="tcp:64337:9"/>Pope, to aſke who gave him, or the Coun<g ref="char:EOLhyphen"/>cell of Conſtance or Trent authoritie, to rob all the Laitie of the Chriſtian world of halfe their right in the holy Sacrament: <hi>But</hi> beſides <hi>Brentius,</hi> there be many more that ſo reſolve; for as the reformed Churches in France, in twenty ſeverall Synods have confirmed this Canon for the Communion.</p>
+            <p>
+               <note n="t" place="margin">
+                  <hi>So in the Eccleſiaſticall Diſ<g ref="char:EOLhyphen"/>cipline of the Reformed Church<g ref="char:EOLhyphen"/>ches. Ch.</hi> 12. <hi>Art.</hi> 7. <hi>Ms.</hi>
+               </note> 
+               <hi>Paſtors ought to Adminiſter the bread of the holy Supper, unto them that are not able to drinkwine, they having made a Proteſtation, that they doe it not in contempt, and framing themſelves to drinke (ſo farre as they ſhall be able) Namely, they ſhall take the cup in their hand, to prevent ſcandall.</hi>
+            </p>
+            <p>Which Conſtitution, I account of more weight, becauſe it is not like they did either not know, or not conſider the deciſions of Geneva, before men<g ref="char:EOLhyphen"/>tioned: and it is worthy our obſervation in two points eſpecially.</p>
+            <p n="1">That the Communion may be received in one kinde, in caſe of neceſſitie, when both cannot be had or not received: for then to take the one in deed, the other in deſire, may ſuffice, which ſeemeth to be the Judgment of Biſhop <hi>Andrewes</hi> (who ſince his death hath been ſtiled a ſtupendious oracle) in his Anſwere to Cardinall <hi>Bellar<g ref="char:EOLhyphen"/>mine,</hi> as
+<note n="u" place="margin">
+                  <hi>Doctor Feately in his conference with M. Evarard pag.</hi> 268.</note> Doctor <hi>Feately</hi> un<g ref="char:EOLhyphen"/>derſtandeth him: though (to mine apprehenſion) he
+<note n="w" place="margin">
+                  <hi>Si qui in extremis viaticum, petant ab hac autem, velilla ſpecie abhorreant, quaeri poteſt porro, an (eo caſu) diſpenſari poſſit, ut altera tantum ſpecie communi<g ref="char:EOLhyphen"/>cent? &amp; an neceſſitate id cogente immutari poſſit quid in Euchar. (gratiae divina lonmanum deſectum ſupplente) cum ſacramentum propter bominem factum ſit, non homo propter Sacramentum: verum caſus ille in legem trahen<g ref="char:EOLhyphen"/>dus non eſt, ſed Ceſſante ferreâ neceſſitate, de reliquo redeundum mox ad Chriſti Inſtitutum. Biſhop Andrewes reſpo. ad Card. Bellar. cap.</hi> 8. <hi>pag.</hi> 192.</note> car<g ref="char:EOLhyphen"/>ryeth
+<pb n="13" facs="tcp:64337:9"/>his conceipt indifferently, be<g ref="char:EOLhyphen"/>twixt receiving in one kinde, and ſupplying the defect of one Ele<g ref="char:EOLhyphen"/>ment with ſome other thing, in caſe of Antipathy, or other extreame neceſſitie, which hee calleth an <hi>Iron neceſsitie.</hi> In which caſe, he ſaith the Sacrament was made for man, not man for the Sacrament: So that when the man cannot yeeld to the Sacrament, that ſhould (in ſome ſort) yeeld to him: and that may be meant two wayes:</p>
+            <p n="1">Either by ſupplying one kinde by ſome other thing analogicall unto it, of which we have ſpoken before: Or,</p>
+            <p>Secondly, by tempering one kinde ſo with ano<g ref="char:EOLhyphen"/>ther, as to make it fit to be reliſhed, and ſwallow<g ref="char:EOLhyphen"/>ed: as by ſoaking the bread in liquor, as in caſe of old
+<note n="x" place="margin">
+                  <hi>Euſeb. Eccleſ. Hiſt. lib.</hi> 6. <hi>chap.</hi> 43. <hi>pag.</hi> 118.</note> 
+               <hi>Serapion,</hi> who could not let downe drie bread: which ſoak<g ref="char:EOLhyphen"/>ing (by the Councell of
+<note n="y" place="margin">
+                  <hi>Bellar. citeth this out of Burch<g ref="char:EOLhyphen"/>ard. Bellar. lib.</hi> 4. <hi>de Euchar. c.</hi> 26. <hi>tom.</hi> 3. <hi>pag.</hi> 300. <hi>col.</hi> 2. <hi>though in the Councells I can finde no ſuch Canon.</hi>
+               </note> 
+               <hi>Tow<g ref="char:EOLhyphen"/>ers</hi>) was allowed to ſick Com<g ref="char:EOLhyphen"/>municants: but afterwards, when (out of caſe of neceſſity) it was uſed by ſome; it was ſeverely co<g ref="char:cmbAbbrStroke">̄</g>demned by a Canon, in the 3.
+<note n="z" place="margin">
+                  <hi>Concil. Bracarenſ.</hi> 3. <hi>fol.</hi> 310. <hi>princip. Concil.</hi>
+               </note> Councell of Bracara. <hi>anno</hi> 669. and as
+<note n="a" place="margin">
+                  <hi>Gratian. de conſecr. di.</hi> 2. <hi>cap. cumomne Crimen. fol.</hi> 315. <hi>pag.</hi> 1. <hi>col.</hi> 1.</note> 
+               <hi>Gratian</hi> citeth it by a de<g ref="char:EOLhyphen"/>cree of Pope <hi>Julius, Anno</hi> 340.</p>
+            <p>Or thirdly, by taking the one kinde <hi>Re,</hi> the other <hi>Voto,</hi> the one kinde in deed, the other in deſire: which I moſt ap<g ref="char:EOLhyphen"/>prove of: for Firſt, in ſuch a caſe, hee that recei<g ref="char:EOLhyphen"/>veth
+<pb n="14" facs="tcp:64337:10"/>one kinde, receiveth Chriſt, and with Chriſt, both his body and blood, ſo that though he have not the Integritie of the Sacrament (for the out<g ref="char:EOLhyphen"/>ward Elements) he may have the eſſence and effica<g ref="char:EOLhyphen"/>cie of it: and though it be imperfect in reſpect of the ſenſible materialls, yet it is better to have it imper<g ref="char:EOLhyphen"/>fect, then not at all: as it is better to have a piece of a booke, of Canonicall Scripture, or but a verſe, if he can have no more, then none at all. <hi>Beſides</hi> it ſee<g ref="char:EOLhyphen"/>meth hard meaſure, to debarre any from their par<g ref="char:EOLhyphen"/>ticipation of both parts of the Sacrament, becauſe God hath enabled them to partake but of one, eſpe<g ref="char:EOLhyphen"/>cially if they much deſire it, and be inclined to ſcruples and diſcomforts, if they be kept with<g ref="char:EOLhyphen"/>out it.</p>
+            <p>If it be objected, that
+<note n="b" place="margin">
+                  <hi>Aut integra Sacramenta percipi<g ref="char:EOLhyphen"/>ant, aut ab integris arceantur, quod diviſio unius ejuſdemque my<g ref="char:EOLhyphen"/>ſterij, ſine grandi ſacrilegio non po<g ref="char:EOLhyphen"/>teſt pervenire. Gelas. apud Gratian de conſecrat. diſt.</hi> 2. <hi>cap. comperi<g ref="char:EOLhyphen"/>mus. fol.</hi> 315. <hi>pag.</hi> 2. <hi>col.</hi> 1.</note> 
+               <hi>Gelaſius</hi> (who was one of the better ſort of the Biſhops of Rome, for he li<g ref="char:EOLhyphen"/>ved about the yeer 492) required either an intire Communion in both kinds, or a forbearance of both, and held the diviſion of the one from the other, no leſſe then a grand ſacre<g ref="char:EOLhyphen"/>ledge: I anſwere, he ſpeaketh this, of ſuch as (by
+<note n="c" place="margin">A calice Sacrati cruoris abſtinent, neſcio qua ſuper<g ref="char:EOLhyphen"/>ſtitione docentur aſtringi. Ibid.</note> Superſtition) refuſed the Communion of the Cup, not of ſuch as would, but could not have both, or receive both. It ſeemeth rather ſacreledge to with<g ref="char:EOLhyphen"/>hold from them their Sacred right in one part of the Sacrament, becauſe they are deprived of meanes to enjoy the other.</p>
+            <pb n="15" facs="tcp:64337:10"/>
+            <p>But Saint
+<note n="d" place="margin">
+                  <hi>Detrabe verbum, &amp; quid eſt aqua niſi aqua? accedat verbum ad ele<g ref="char:EOLhyphen"/>mentum, &amp; fit Sacra<g ref="char:EOLhyphen"/>mentum. Aug. tract.</hi> 8. <hi>in Joh. tom.</hi> 9. <hi>p.</hi> 547.</note> 
+               <hi>Auguſtine</hi> ſaid, the word and the element muſt make up the Sacra<g ref="char:EOLhyphen"/>ment; without the element then no Sa<g ref="char:EOLhyphen"/>crament: but he ſaid it not in the Plurall number <hi>[Elements]</hi> but in the ſingu<g ref="char:EOLhyphen"/>lar: and he ſpeaketh it particularly, of the Sacrament of Baptiſme, in his Eighth tractate upon Saint <hi>John.</hi>
+            </p>
+            <p>The ſecond obſervable point in that Canon of the French Church is, that when it is ſo received, all ſcandall and offence muſt be carefully declined: for if the partie cannot drinke wine, he muſt yet take the Cup into his hand (as before hath been ſaid) and profeſſe a willingneſſe to doe it, and thereby hee profeſſeth his judgement, and conſent with the Church, againſt ſeverall hereſies, condemning and denying the lawfull uſe of wine, as the
+<note n="e" place="margin">
+                  <hi>Alphons de Caſtr. advers heres. lib.</hi> 14. <hi>fol.</hi> 173. <hi>pag.</hi> 6.</note> 
+               <hi>Severeani,</hi> who held that Satan and the Earth were the Parents of wine: and of the
+<note n="f" place="margin">
+                  <hi>De hoc loco, hereſ. ſuam Ta<g ref="char:EOLhyphen"/>tianus (Encratitarum princeps) ſtruere mititur, vinum aſſerens non bibendum. Hieron. in Amos.</hi> 2. <hi>&amp; the</hi> 12. <hi>tom.</hi> 6. <hi>pag.</hi> 94. <hi>col.</hi> 2.</note> 
+               <hi>Tatiani,</hi> who (becauſe the Lord findeth fault with the peo<g ref="char:EOLhyphen"/>ple, by the Prophet <hi>Amos,</hi> that gave the Nazarites wine to drinke) thence conceived that he condemned wine altogether: as <hi>Hierome</hi> obſerveth upon that text. <hi>Amos</hi> 2. verſ. 12 and of the
+<note n="g" place="margin">
+                  <hi>Manachei vinum non bibunt, dicentes eſſe principium tenebra<g ref="char:EOLhyphen"/>rum: cum veſcuntur uvis. Mag<g ref="char:EOLhyphen"/>deburge Centur.</hi> 3. <hi>cap.</hi> 5. <hi>col.</hi> 115.</note> 
+               <hi>Manachees,</hi> who accounted wine the beginning of dark<g ref="char:EOLhyphen"/>neſſe, yet forbare not to eate the grapes from whence it was preſ<g ref="char:EOLhyphen"/>ſed:
+<pb n="16" facs="tcp:64337:11"/>of the
+<note n="h" place="margin">
+                  <hi>Erant Angeli duo (Aror &amp; Maror) miſſi a Deo de caelis in terram, tribue his interdictis: ne occiderent, ne injuſte vindica<g ref="char:EOLhyphen"/>rent, nec vinum biberent. Centur.</hi> 7. <hi>cap.</hi> 15. <hi>col.</hi> 613.30.</note> 
+               <hi>Turks,</hi> who pretend<g ref="char:EOLhyphen"/>ed a prohibition from heaven, by an Angel, againſt the drinking of wine, of the <hi>Aquarij,</hi> who refuſed it upon pretence of more ſobrietie, and e<g ref="char:EOLhyphen"/>ſpecially of the <hi>Papiſts,</hi> who denie the neceſſary uſe of it to the Laitie, by vertue of Chriſts Inſtitution. Laſtly, hereby they profeſſe againſt ſcandall or offence unto the congregation; by doeing otherwiſe then they doe.</p>
+            <div type="part">
+               <head>An application of the Precedent Obſervations to the particular Caſe propoſed, concerning the Partie that cannot take the bread of the Sa<g ref="char:EOLhyphen"/>crament.</head>
+               <p>IN this diſcuſſion of the different opinions, con<g ref="char:EOLhyphen"/>cerning the receiving of the Sacrament, where either the matter (wherein it was at the Inſtitu<g ref="char:EOLhyphen"/>tion firſt Adminiſtred) cannot be had, or the meanes of orall eating or drinking is denyed; I have beene the more large: becauſe all that I have met withall (who have medled with the doubt) I have found too ſhort, to give an inquiſi<g ref="char:EOLhyphen"/>tive minde, or a ſcrupulous conſcience, due ſatisfa<g ref="char:EOLhyphen"/>ction: and for that (beſides the particular Quaere, touching the Maid that can take no bread) there be other difficulties, concerning imperfect Communi<g ref="char:EOLhyphen"/>on, which may perplexe others, as much as this doth
+<pb n="17" facs="tcp:64337:11"/>her, and which (being cleared) prepare the way of reſolution for the point in hand: touching which, the reſultancie of the precedent diſcourſe, drawne up in particular obſervations may be this,</p>
+               <p n="1">That though there be moſt diſpute betwixt us and the Papiſts, upon the with-holding of the Cuppe of the holy Communion, in the thing it ſelf, there is no more neceſſitie held (by either ſide) of the uſe of the one element, then of the other: nor is Chriſt leſſe preſent to the faithfull, in the one, then in the other, though methinks (beſides other ad<g ref="char:EOLhyphen"/>vantages on our part) this is of no ſmall moment, that they have made choice of the bread rather then the wine in their halfe Communion: whereas (with more probabilitie of reaſon) they might have plead<g ref="char:EOLhyphen"/>ed for an halfe communion in wine, then in bread, both becauſe,</p>
+               <p n="1">Our Saviour ſaid expreſſely,
+<note place="margin">
+                     <hi>Mat.</hi> 26.27.</note> 
+                  <hi>Drinke ye all of this,</hi> and ſaid not ſo of the bread, <hi>Eat ye all of this,</hi> (though he meant no leſſe.)</p>
+               <p n="2">Becauſe that the Blood of Chriſt (not ſo much as it is in the body, as let out of the Veines, and made potable liquor) is the proper meanes of the remiſſion of our ſinnes,
+<note place="margin">
+                     <hi>Heb.</hi> 9.22.</note> without which there is no remiſſion.</p>
+               <p n="3">Becauſe in the blood, is the life of the creature, yea, it is called life it ſelf, and is diffuſed all over the body, being the purer part of the nouriſhment (which we receive) whereof are produced the Spi<g ref="char:EOLhyphen"/>rits, which quicken the whole man in the motion and operation of all his parts, and faculties: ſo that (in this reſpect) her caſe is in my conceit more com<g ref="char:EOLhyphen"/>fortable
+<pb n="19" facs="tcp:64337:12"/>(who can take no bread, if ſhee can drinke the wine) then theirs, who (contrariwiſe) are di<g ref="char:EOLhyphen"/>ſpoſed to a drie Communion, and not to a moiſt, who can eate the bread, but cannot drink the wine of the Sacrament.</p>
+               <p n="2">That what is reſolved to be lawfully done, in the want of either bread, or wine, the ſame may be done by way of reliefe to thoſe whoſe Antipathy or diſabilitie to receive, maketh it all one to them, as if it could not be had at all.</p>
+               <p n="3">That if the partie cannot take ordinary Sacra<g ref="char:EOLhyphen"/>mentall bread, but can take Almond bread (which is the beſt of thoſe things that are Analoga to bread of Corne, and is compoſed of feweſt ſimples, and which (as in quantitie, ſo in uſe) is many times made like our uſuall bread, and preſented with wine for preſent entertainment of gueſts or friends: and Laſtly, which is for the chiefe matter of it: the
+<note n="i" place="margin">
+                     <hi>Almonds are of good tempera<g ref="char:EOLhyphen"/>ture, for heat and moyſture, and of wholſome and pure juice.</hi> Ven<g ref="char:EOLhyphen"/>ner, via recta, ad vitam longam. <hi>pag.</hi> 136.</note> Almond is much com<g ref="char:EOLhyphen"/>mended by the Phiſitian, or ordi<g ref="char:EOLhyphen"/>nary Communion bread moiſtned with wine (as in the Communion of the ſicke, hath been anciently allowed, as before I have ſhewed) I make no great doubt, but that kind of bread, and the wine of the Communion Cup, would become ſufficient materi<g ref="char:EOLhyphen"/>alls for both a lawfull and comfortable Sacrament to the receiver.</p>
+               <p>But that, wherein I am more confident (upon ſe<g ref="char:EOLhyphen"/>rious penſitation of all particulars) is, that it were beſt for her (if indeed ſhe be ſo averſe from all uſe of bread) to take and taſte of the Cup onely, and to
+<pb n="18" facs="tcp:64337:12"/>take the bread into her hand, and thereby, and therewithall to teſtifie, that nothing but her Anti<g ref="char:EOLhyphen"/>pathy to bread, keepeth her from conformitie with the preſent Church: which anſwereth the ſecond part of the Canon of the French Church, concern<g ref="char:EOLhyphen"/>ing this matter. But it will not be ſafe for the Mi<g ref="char:EOLhyphen"/>niſter to take up ſuch a new manner of Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacrament, without conſulting with the Biſhop of the Dioceſſe, who is to give leave and or<g ref="char:EOLhyphen"/>der, for that I have conceived to be convenient in this caſe, if he approve it, which I conceive hee will.</p>
+               <p n="1">Becauſe (as before hath been obſerved) to debarre any from the Communion wholly (who earneſtly deſire it) becauſe they can take it, but in part, ſeemeth not to ſuite with the charitie of the Church.</p>
+               <p n="2">I ſuppoſe, he will not be forward to ſubſti<g ref="char:EOLhyphen"/>tute an other Element, in ſtead of that which can<g ref="char:EOLhyphen"/>not be had, or cannot be taken, and if neither of theſe, the third will follow.</p>
+               <p n="3">For ſuch receiving in one kinde only, I think he will reſolve the rather, becauſe though the Com<g ref="char:EOLhyphen"/>munion be a common union of the faithfull, with Chriſt, and of Chriſtians, with one another, and ſo neceſſarily require a number, to Communicate with the miniſter, that except there be foure, or three (at the leaſt) to joyne with him, there muſt be no com<g ref="char:EOLhyphen"/>munion, by the direction of the Rubrick: yet (in caſe of neceſſitie) the Church diſpenſeth with the defect of that (indeed too) ſmall number, and thus reſolveth in the Communion of the ſick, <hi>In time of
+<pb n="20" facs="tcp:64337:13"/>Plague, ſweate, or ſuch other like contagious times of Sickneſſe, or Diſeaſes, when none of the pariſh, or neighbors can be gotten, to Communicate with the ſick, in their houſes (for feare of infection) upon ſpeciall re<g ref="char:EOLhyphen"/>queſt of the diſeaſed, the Miniſter may be a lonely Com<g ref="char:EOLhyphen"/>municant with him:</hi> and as by a neceſſary defect of number, one Miniſter (in this caſe) ſtands for three others, ſo by the like neceſſitie, one element may ſtand for two: and this rather then that, becauſe whole Chriſt is preſent to the faithfull, in receiving either of the Elements, but three Laie-men are not, nor can be preſent in one perſon, whether Miniſter, or any other.</p>
+               <p>But if for all this, upon ſome eſpeciall reaſon (which my ſhallowneſſe doth not conceive) all par<g ref="char:EOLhyphen"/>ticipation of the Sacrament ſhould be forbidden, or denied, to ſuch a one as cannot entirely take it in both Elements, as others doe: yet the partie need<g ref="char:EOLhyphen"/>eth not be troubled, ſince our Church her ſelfe hath reſolved in the Communion of the Sick, that <hi>if any perſon, by extremitie of ſickneſſe, or for want of warning to the Curate in due time, or for lacke of com<g ref="char:EOLhyphen"/>panie to receive with him, or by any other juſt impedi<g ref="char:EOLhyphen"/>ment, doe not receive the Sacrament of Chriſts bodie and blood, if he truly repent him of all his ſinnes, and ſtedfaſtly beleeve that Chriſt ſuffered for him: hee doth eate and drinke the body and blood of Chriſt profitably to his ſouls health, although he doe not receive the Sa<g ref="char:EOLhyphen"/>crament with his mouth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:64337:13" rendition="simple:additions"/>
+               <head>Of Manus Chriſti.</head>
+               <p>THerefore no need of <hi>Manus Chriſti</hi> for <hi>Cor<g ref="char:EOLhyphen"/>pus Chriſti,</hi> and as I conceive, there is no war<g ref="char:EOLhyphen"/>rant for it, becauſe it is compounded of ma<g ref="char:EOLhyphen"/>ny Ingredients (none of which is either bread, or any thing that is Analogicall to it, as Sugar, Roſe<g ref="char:EOLhyphen"/>water, prepared Pearle, and leafe Gold) Chriſts Word, any his Churches word is better warrant,
+<note place="margin">Manus Chri<g ref="char:EOLhyphen"/>ſti.</note> then <hi>Chriſts hand</hi> (in this ſence) to reſolve the con<g ref="char:EOLhyphen"/>ſcience of ſuch as doubt: to the ſatisfaction where<g ref="char:EOLhyphen"/>of, if that I have ſaid doe any ſervice, let praiſe be given to God; and a prayer put up for him whom he is pleaſed to uſe (though a weake and unworthy inſtrument:) to ſuch a purpoſe.</p>
+            </div>
+            <closer>
+               <dateline>Cheſter: <date>
+                     <hi>Monday</hi> 16. <hi>of January.</hi> 1636.</date>
+               </dateline>
+               <signed>Yours much obliged in love and obſervance. <hi>J. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:64337:14" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Feb.</hi> 9. 1640.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>THO. WYKES.</signed>
+            </closer>
+            <pb facs="tcp:64337:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
